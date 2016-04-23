@@ -1,0 +1,2 @@
+# ikhide-world
+as software
